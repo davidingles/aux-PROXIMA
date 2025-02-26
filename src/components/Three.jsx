@@ -6,6 +6,7 @@ import { useControls } from 'leva';
 
 const Models = [
   { title: 'BIOTECH', url: './BIOTECH.glb', miEscala: .71, miPosicion: 0 },
+  { title: 'BIOTECH1', url: './BIOTECH1.glb', miEscala: .71, miPosicion: 0 },
   // { title: 'CANARA2', url: './CANARA2.glb', miEscala: 0.5, miPosicion: 0 },
   // { title: 'CANARA3', url: './CANARA3.glb', miEscala: 0.5, miPosicion: 0 },
   // { title: 'CANARA4', url: './CANARA4.glb', miEscala: 0.5, miPosicion: 0 },
